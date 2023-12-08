@@ -1,6 +1,6 @@
 # MC_SVLootFilter
 
-If you're mining, I suggest LadyHawk's loot filter.  It's much easier to configure and can be reconfigured on the fly.
+If you're mining, I suggest LadyHawk's loot filter (https://github.com/Zaravira/LH_SVLootFilter/releases).  It's much easier to configure and can be reconfigured on the fly.
 
 F2 - enable/disable
 F3 - lower filter level
